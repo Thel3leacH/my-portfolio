@@ -6,9 +6,8 @@ export const GENERAL_INFO = {
     emailSubject: "Let's collaborate on a project",
     emailBody: 'Hi Jiradech, I am reaching out to you because...',
 
-    // oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
     upworkProfile:
-        'https://drive.google.com/file/d/1QBScLQ38ZD9UPn1lQ3DP6lAP0w563pH4/view',
+        'https://drive.google.com/file/d/1z9Gb7qoIEmZup6ERN61RwCM84cnFGhgX/view?usp=sharing',
 };
 
 export const SOCIAL_LINKS = [
@@ -26,7 +25,11 @@ export const MY_STACK = {
         },
         {
             name: 'Robot framework',
-            icon: '/logo/Frame 1.png',
+            icon: '/logo/robot.png',
+        },
+        {
+            name: 'Postman',
+            icon: '/logo/postman.png',
         },
     ],
     frontend: [
@@ -317,11 +320,11 @@ export const MY_EXPERIENCE = [
     {
         title: 'Junior Software Developer (Learner Cohort 10)',
         company: 'Generation Thailand',
-        duration: 'Jun 2025 - Present',
+        duration: 'Jun 2025 - Sep 2025',
     },
     {
         title: 'Plant Engineer (Utility)',
-        company: 'Fujikura Ltd.',
+        company: 'Fujikura Electronics Thailand Ltd.',
         duration: 'Apr 2024 - Dec 2024',
     },
     {
