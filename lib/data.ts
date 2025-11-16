@@ -19,6 +19,16 @@ export const SOCIAL_LINKS = [
 ];
 
 export const MY_STACK = {
+    testing: [
+        {
+            name: 'Playwright',
+            icon: '/logo/playwright.png',
+        },
+        {
+            name: 'Robot framework',
+            icon: '/logo/Frame 1.png',
+        },
+    ],
     frontend: [
         {
             name: 'JavaScript',
@@ -295,8 +305,7 @@ export const PROJECTS: IProject[] = [
             '/projects/images/Tracky_dashboard-2.png',
             '/projects/images/Tracky_dashboard-3.png',
         ],
-        sourceCode:
-            'https://github.com/Thel3leacH/JRD-personal-project-Thel3leacH',
+        sourceCode: 'https://github.com/Thel3leacH/TRAC-KY',
         liveUrl: 'https://jrd-personal-project-thel3leac-h.vercel.app',
         year: 2025,
         description: `Web application for managing tasks, tracking habits, and viewing productivity overview with AI Assistant that helps assess user mood and prioritize tasks to increase work efficiency and mental health.<br/><br/>`,
